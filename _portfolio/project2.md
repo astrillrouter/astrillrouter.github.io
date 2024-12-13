@@ -1,17 +1,17 @@
 ---
-title: Mesh Router
-subtitle: RMB 650
+title: Year Subscription (Tech Support)
+subtitle: RMB 500
 image: assets/img/portfolio/02-full.jpg
 alt:
 
 caption:
-  title: Mesh Router
-  subtitle: RMB 650
+  title: Year Subscription (Tech Support)
+  subtitle: RMB 500
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-WIFI 6 ASUS Router
+Year (12 Months) Subscription (Tech Support)
 
-Router, Power Cord, Network Cable comes together.
+Once Subscribed, customers will get 365 days remote assistant service.
 
 Alipay、WeChat、Visa、Master、Bitcoin and other crypto currencies accepted
 

@@ -1,15 +1,15 @@
 ---
-title: Standard Router
-subtitle: RMB 500
+title: Astrill WIFI 6 Mesh Router
+subtitle: RMB 1500
 image: assets/img/portfolio/01-full.jpg
 alt:
 
 caption:
-  title: Standard Router
-  subtitle: RMB 500
+  title: Astrill WIFI 6 Mesh Router
+  subtitle: RMB 1500
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-WIFI 5 Netgear Router
+Astrill WIFI 6 Mesh Router
 
 Router, Power Cord, Network Cable comes together.
 
