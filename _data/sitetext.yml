@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: WIFI 6 Mesh Router
+    title: AStrill WIFI 6 Mesh Router
     text: Bring Free Internet!
     button: Learn More
     buttonlink: "#services"
@@ -36,16 +36,16 @@ en: &DEFAULT_EN
       - title: "Multi Platform Supported"
         desc: "All devices connect to the router will enjoy free internet."
         icon: fas fa-laptop
-      - title: "7 Days free trial"
-        desc: "We provide 7 days free trial"
+      - title: "Remote Assistance"
+        desc: "We provide remote assistance in real time."
         icon: fab fa-markdown
 
   portfolio:
-    title: "Rapid Router Device"
+    title: "Astrill Router Device"
     text: "Select The Best Device for you"
     section: portfolio
     closebutton: "Close"
-    title2: "Rapid Router Subscription"
+    title2: "Astrill Router Subscription"
     text2: "Select The Most Suitable Subscription for you"
 
   timeline:
@@ -60,9 +60,9 @@ en: &DEFAULT_EN
         desc: "From an idea to a product!"
         image: assets/img/timeline/1.png
         alt:
-      - title: "Fast nodes added"
+      - title: "Version 1 Router (WIFI 5) Released"
         year: "2021"
-        desc: "A lot of Nodes with low latency added."
+        desc: "Portable WIFI 5 Router released."
         image: assets/img/timeline/2.png
         alt:
       - title: "Remote Assistance Function Added."
@@ -70,19 +70,19 @@ en: &DEFAULT_EN
         desc: "We are able to help customers to diagnose and solve problem remotely."
         image: assets/img/timeline/3.png
         alt:
-      - title: "More nodes added without price increase."
+      - title: "Version 2 Router (WIFI 6) Released"
         year: "2022"
-        desc: "EU nodes added along with other optimized nodes."
+        desc: "Asus WIFI 6 Router Released."
         image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
         align: right
-    end: "Subscribe <br> to <br> ENJOY!"
+    end: "Order <br> to <br> ENJOY!"
 
   about:
     title: "About Us"
-    text: "Best VPN Router Supplier"
-    body: "We have a bunch of nodes across the world with low latency and smart auto-switch function embedded."
+    text: "Best Astrill VPN Router Supplier"
+    body: "We have a group of experienced network engineers to be ready to help at any time."
     image: assets/img/whole-home.gif
     image: assets/img/network-efficiency.gif
     section: about
@@ -110,8 +110,8 @@ en: &DEFAULT_EN
         logo: assets/img/clients/macoslogo.png
 
   team:
-    title: "Free Trial"
-    text: "Contact us via WeChat to get a free trial"
+    title: "Free Consulting"
+    text: "Contact us via WeChat to talk in details"
     subtext: No upfront fee, Customer satisfaction guaranteed.
     section: team
     people:
