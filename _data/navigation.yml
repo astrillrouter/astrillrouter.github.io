@@ -12,23 +12,21 @@
 en: &DEFAULT_EN
   nav:
     - title: "HOME"
-      url: https://www.rapidrouter.net
+      url: https://www.astrillrouter.com
     - title: "Product"
-      url: https://rapidrouter.net/#services
+      url: https://www.astrillrouter.com/#services
     - title: "Price"
-      url: https://rapidrouter.net/#portfolio
+      url: https://www.astrillrouter.com/#portfolio
     - title: "About"
-      url: https://rapidrouter.net/#about
+      url: https://www.astrillrouter.com/#about
     - title: "Timeline"
-      url: https://rapidrouter.net/#timeline
-    - title: "Free Trial"
-      url: https://rapidrouter.net/#team
-    - title: "Download"
-      url: https://rapidrouter.net/#clients
+      url: https://www.astrillrouter.com/#timeline
+    - title: "Free Consulting"
+      url: https://www.astrillrouter.com/#team
     - title: "Contact"
-      url: https://rapidrouter.net/#contact
+      url: https://www.astrillrouter.com/#contact
     - title: "Tutorial"
-      url: https://rapidrouter.net/Tutorial
+      url: https://www.astrillrouter.com/Tutorial
 en-US:
   <<: *DEFAULT_EN
 en-CA:
