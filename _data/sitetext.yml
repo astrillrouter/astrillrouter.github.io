@@ -97,16 +97,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Android"
-        url: https://ghproxy.com/https://github.com/rapidrouter/rapidrouter.github.io/releases/download/latest/rapidrouter.apk
+        url: https://play.google.com/store/apps/details?id=com.astrill.astrillvpn&hl=en
         logo: assets/img/clients/androidlogo.png
       - title: "iOS"
-        url: https://apps.apple.com/us/app/id932747118
+        url: https://itunes.apple.com/us/app/astrill-vpn-client/id572953702
         logo: assets/img/clients/ioslogo.png
       - title: "windows"
-        url: https://ghproxy.com/https://github.com/rapidrouter/rapidrouter.github.io/releases/download/latest/rapidrouter.exe
+        url: https://www.astrill.com/downloads/astrill-setup-win.exe
         logo: assets/img/clients/windowslogo.png
       - title: "Mac OS"
-        url: https://ghproxy.com/https://github.com/rapidrouter/rapidrouter.github.io/releases/download/latest/rapidrouter.dmg
+        url: https://www.astrill.com/downloads/astrill-setup-mac.pkg
         logo: assets/img/clients/macoslogo.png
 
   team:
