@@ -23,6 +23,8 @@ en: &DEFAULT_EN
       url: https://www.astrillrouter.com/#timeline
     - title: "Free Consulting"
       url: https://www.astrillrouter.com/#team
+    - title: "Download"
+      url: https://www.astrillrouter.com/#clients
     - title: "Contact"
       url: https://www.astrillrouter.com/#contact
     - title: "Tutorial"
